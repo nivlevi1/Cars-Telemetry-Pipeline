@@ -116,7 +116,7 @@ docker exec -it project-app-1 bash /app/scheduler.sh
 ## 5. Review and Shutdown
 
 Review the process using the following interfaces:
-- **Minio (HTTP):** [http://localhost:9002/](http://localhost:9002/)
+- **Minio:** [http://localhost:9002/](http://localhost:9002/)
 - **Kafdrop:** [http://localhost:9003/](http://localhost:9003/)
 
 When you're ready to stop the services, shut down the containers with:
