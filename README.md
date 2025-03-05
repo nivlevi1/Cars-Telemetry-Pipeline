@@ -90,11 +90,11 @@ Ensure you have the following installed on your machine:
 ### 2. Clone the Repository
 
 <!-- 
-Clone the project from the repository. Replace 'yourusername' with your actual GitHub username.
+Clone the project from the repository.
 -->
 
 ```bash
-git clone https://github.com/yourusername/Cars-Telemetry-Pipeline.git
+git clone https://github.com/nivlevi1/Cars-Telemetry-Pipeline
 cd Cars-Telemetry-Pipeline
 ```
 
