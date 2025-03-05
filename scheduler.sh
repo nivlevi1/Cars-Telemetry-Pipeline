@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# List of scripts in order (adjust paths if needed)
+# List of scripts in order
 scripts=(
     "Car_Models.py"
     "Cars_Colors.py"
